@@ -1,0 +1,1 @@
+. $PSScriptRoot\NMPackageManagement.ps1
