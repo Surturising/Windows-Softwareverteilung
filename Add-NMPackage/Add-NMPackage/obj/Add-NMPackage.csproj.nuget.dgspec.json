@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Temp\\ReleaseNMP\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj": {}
+  },
+  "projects": {
+    "C:\\Temp\\ReleaseNMP\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Temp\\ReleaseNMP\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj",
+        "projectName": "Add-NMPackage",
+        "projectPath": "C:\\Temp\\ReleaseNMP\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\ReleaseNMP\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.14.0, )"
+            },
+            "Microsoft.Management.Infrastructure": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.PowerShell.Commands.Diagnostics": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.PowerShell.Commands.Management": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.PowerShell.Commands.Utility": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.PowerShell.ConsoleHost": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.PowerShell.CoreCLR.Eventing": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.PowerShell.Native": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.WSMan.Management": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.Win32.Registry.AccessControl": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.DirectoryServices": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.IO.FileSystem.AccessControl": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Management.Automation": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "System.Security.AccessControl": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Security.Cryptography.Pkcs": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+﻿<Window 
+    Name="window_NMPakcageMain"
+    x:Class="Add_NMPackage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Add_NMPackage"
+        mc:Ignorable="d"
+        Title="Add-NMPackage" Height="450" Width="800">
+    <Grid>
+        <StackPanel Name="stack_main">
+            <TextBlock></TextBlock>
+            <TextBlock Text="Dieses Programm benutzen um einer PackageSource ein neues Package hinzuzufügen"></TextBlock>
+            <TextBlock></TextBlock>
+            
+            <WrapPanel>
+                <ComboBox Name="combo_PackageSource" Width="150" PreviewMouseDown="combo_PackageSource_PreviewMouseDown" MouseLeave="combo_PackageSource_MouseLeave">
+                    <ComboBoxItem Name="comboItem_PackageSource" Width="50" Height="10" Content="PackageSource" IsSelected="True"></ComboBoxItem>
+                </ComboBox>
+                <TextBlock Name="txt_PackageSource" Text=""></TextBlock>
+                
+                <ComboBox Name="Combo_Architektur" Width="150">
+                    <ComboBoxItem Content="Programmarchitektur" IsSelected="True"></ComboBoxItem>
+                    <ComboBoxItem Content="x64"></ComboBoxItem>
+                    <ComboBoxItem Content="x86"></ComboBoxItem>
+                </ComboBox>
+            </WrapPanel>
+
+            <TextBlock></TextBlock>
+            
+            <WrapPanel>
+                <ComboBox Name="combo_Programmordner" Width="150" PreviewMouseLeftButtonDown="Programmordner_PreviewMouseLeftButtonDown" MouseEnter="combo_Programmordner_MouseEnter">
+                    <ComboBoxItem Content="Softwareordner wählen" IsSelected="True"></ComboBoxItem>
+                    <ComboBoxItem Name="comboItem_NeuerOrdner" Content="Neuer Ordner" PreviewMouseLeftButtonDown="comboItem_NeuerOrdner_PreviewMouseLeftButtonDown" Visibility="Hidden"></ComboBoxItem>
+                    <ComboBoxItem Name="comboItem_allProgs" Content="*"></ComboBoxItem>
+                </ComboBox>
+                <TextBox Name="txtBox_NeuerOrdnerName" Width="200" Text="neuer Ordner Name" FontStyle="Italic" Visibility="Hidden" PreviewMouseLeftButtonDown="txtBox_NeuerOrdnerName_PreviewMouseLeftButtonDown"></TextBox>
+                <Button Name="btn_NeuerOrdner_anlegen" Content="anlegen" Visibility="Hidden" Click="btn_NeuerOrdner_anlegen_Click"></Button>
+            </WrapPanel>
+
+            <WrapPanel>
+                <ComboBox Name="combo_Programmart" Width="150">
+                    <ComboBoxItem Name="comboItem_NeuProgrammDatei" Content="Neue Programmdatei" IsSelected="True" PreviewMouseLeftButtonDown="comboItem_NeuProgrammDatei_PreviewMouseLeftButtonDown"></ComboBoxItem>
+                    <ComboBoxItem Name="comboItem_NeuProgrammordner" Content="Neuer Programmordner" PreviewMouseLeftButtonDown="comboItem_NeuProgrammordner_PreviewMouseLeftButtonDown"></ComboBoxItem>
+                </ComboBox>
+                <TextBox Name="tbox_Programmpfad" Width="200" Text="Pfad zur Programmdatei" FontStyle="Italic" PreviewMouseLeftButtonDown="tbox_Programmpfad_PreviewMouseLeftButtonDown"></TextBox>
+                <Button Name="btn_Programmpfad" Width="20" Content="..." Click="btn_Programmpfad_Click"></Button>
+                <TextBlock Width="10"></TextBlock>
+                <ComboBox Name="combo_Programmdateipfad" PreviewMouseLeftButtonDown="combo_Programmdateipfad_PreviewMouseLeftButtonDown">
+                    <ComboBoxItem Name="combo_Item_exeMSI" Content="exe, msi auswählen" IsSelected="True"></ComboBoxItem>
+                </ComboBox>
+                <TextBox Name="t_silentArgs" Width="200" Text="Silent install Parameter eintragen" PreviewMouseLeftButtonDown="t_silentArgs_PreviewMouseLeftButtonDown"></TextBox>
+            </WrapPanel>
+            
+            <WrapPanel>
+                <ListBox Name="list_RegistryProgs" Width="250" MaxHeight="150" PreviewMouseLeftButtonDown="list_RegistryProgs_PreviewMouseLeftButtonDown">
+                </ListBox>
+                <TextBlock Name="txt_psChildName" Width="250" Text="PSChildName"></TextBlock>
+                <TextBlock Name="txt_version" Width="250" Text="Versionsnummer"></TextBlock>
+                <TextBlock Name="txt_uninstall" Width="250" Text="Uninstallstring"></TextBlock>
+                <TextBox Name="txt_uninstallSilentArgs" Width="250" Text="Silent Uninstallargs" PreviewMouseLeftButtonDown="txt_uninstallSilentArgs_PreviewMouseLeftButtonDown"></TextBox>
+                <Button Name="btn_sucheProg" Content="Durchsuche Registry" Click="btn_sucheProg_Click"></Button>
+            </WrapPanel>
+
+            <TextBlock></TextBlock>
+
+            <WrapPanel>
+                <CheckBox Width="200" Name="check_restart" Content="Neustart nach installation"></CheckBox>
+                <CheckBox Width="200" Name="check_dependencies" Content="Programm hat abhängigkeiten" Checked="check_dependencies_Checked" Unchecked="check_dependencies_Unchecked"></CheckBox>
+            </WrapPanel>
+
+            <WrapPanel Name="wrapp_Dependencies" Margin="10"></WrapPanel>
+            <WrapPanel Name="wrapp_combo_Dependencies"></WrapPanel>
+
+            <Button Name="btn_OK" Content="OK" Click="btn_OK_Click"></Button>
+            <Button Name="btn_abbrechen" Content="Abbrechen" Click="btn_abbrechen_Click"></Button>
+            <ListView Name="listv_info" MaxHeight="150"></ListView>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

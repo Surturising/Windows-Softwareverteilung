@@ -1,0 +1,475 @@
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.exe
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.deps.json
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.json
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.dev.json
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.pdb
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csprojAssemblyReference.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\App.g.cs
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.lref
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.baml
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.g.resources
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CoreCompileInputs.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfoInputs.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfo.cs
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.pdb
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.genruntimeconfig.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csprojAssemblyReference.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\App.g.cs
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.pdb
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.lref
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.g.resources
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfoInputs.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfo.cs
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CoreCompileInputs.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.exe
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.deps.json
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.json
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.dev.json
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.pdb
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\AddNMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.genruntimeconfig.cache
+C:\Temp\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.exe
+C:\Temp\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.deps.json
+C:\Temp\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.json
+C:\Temp\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.dev.json
+C:\Temp\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.dll
+C:\Temp\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.pdb
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csprojAssemblyReference.cache
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.cache
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.lref
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.g.resources
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfoInputs.cache
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfo.cs
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CoreCompileInputs.cache
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.dll
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.pdb
+C:\Temp\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.genruntimeconfig.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.exe
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.deps.json
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.json
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.dev.json
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.pdb
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csprojAssemblyReference.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\App.g.cs
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.lref
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.g.resources
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfoInputs.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfo.cs
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.pdb
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.genruntimeconfig.cache
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Management.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\mi.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\miutils.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.CoreCLR.Eventing.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libpsl-native.so
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libpsl-native.so
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libpsl-native.so
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libmi.so
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libpsl-native.so
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libpsrpclient.so
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmi.dylib
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libpsl-native.dylib
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libpsrpclient.dylib
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\pwrshplugin.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\pwrshplugin.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\pwrshplugin.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\pwrshplugin.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Management.Automation.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.Automation.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CopyComplete
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Diagnostics.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.ConsoleHost.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.ConsoleHost.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Markdig.Signed.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Utility.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Utility.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.MarkdownRender.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.MarkdownRender.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Management.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Management.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Security.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Security.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.WSMan.Management.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.WSMan.Runtime.dll
+E:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CoreCompileInputs.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.pdb
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Markdig.Signed.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Management.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\mi.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\miutils.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Diagnostics.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Management.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Management.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Utility.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Utility.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.ConsoleHost.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.ConsoleHost.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.CoreCLR.Eventing.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.MarkdownRender.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.MarkdownRender.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libpsl-native.so
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libpsl-native.so
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libpsl-native.so
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libmi.so
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libpsl-native.so
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libpsrpclient.so
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmi.dylib
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libpsl-native.dylib
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libpsrpclient.dylib
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\pwrshplugin.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\pwrshplugin.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\pwrshplugin.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\pwrshplugin.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Security.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Security.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.WSMan.Management.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.WSMan.Runtime.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Management.Automation.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.Automation.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csprojAssemblyReference.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.baml
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\App.g.cs
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.lref
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.g.resources
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfoInputs.cache
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfo.cs
+K:\11 IT\DAVID\Powershell\Softwareverteilung\NMPackageManagement_V0.1\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CoreCompileInputs.cache
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.exe
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.deps.json
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.json
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.runtimeconfig.dev.json
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Add-NMPackage.pdb
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Markdig.Signed.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x64\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win8-x86\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x64\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\mi.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win81-x86\native\miutils.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Management.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Management.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Utility.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Commands.Utility.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.ConsoleHost.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.ConsoleHost.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.MarkdownRender.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.MarkdownRender.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libpsl-native.so
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libpsl-native.so
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libmi.so
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libpsl-native.so
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libpsrpclient.so
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmi.dylib
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libpsl-native.dylib
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\osx\native\libpsrpclient.dylib
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\pwrshplugin.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\pwrshplugin.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\pwrshplugin.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.PowerShell.Security.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.PowerShell.Security.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.WSMan.Management.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.WSMan.Runtime.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Management.Automation.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.Automation.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csprojAssemblyReference.cache
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.cache
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage_MarkupCompile.lref
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.g.resources
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfoInputs.cache
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.AssemblyInfo.cs
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CoreCompileInputs.cache
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.csproj.CopyComplete
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.dll
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.pdb
+C:\Temp\ReleaseNMP\Add-NMPackage\Add-NMPackage\Add-NMPackage\obj\Debug\netcoreapp3.1\Add-NMPackage.genruntimeconfig.cache

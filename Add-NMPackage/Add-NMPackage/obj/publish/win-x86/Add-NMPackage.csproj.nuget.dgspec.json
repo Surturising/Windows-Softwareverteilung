@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\11 IT\\DAVID\\Powershell\\Softwareverteilung\\NMPackageManagement_V0.1\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj": {}
+  },
+  "projects": {
+    "E:\\11 IT\\DAVID\\Powershell\\Softwareverteilung\\NMPackageManagement_V0.1\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\11 IT\\DAVID\\Powershell\\Softwareverteilung\\NMPackageManagement_V0.1\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj",
+        "projectName": "Add-NMPackage",
+        "projectPath": "E:\\11 IT\\DAVID\\Powershell\\Softwareverteilung\\NMPackageManagement_V0.1\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "E:\\11 IT\\DAVID\\Powershell\\Softwareverteilung\\NMPackageManagement_V0.1\\Add-NMPackage\\Add-NMPackage\\Add-NMPackage\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[3.1.4, 3.1.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[3.1.4, 3.1.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[3.1.4, 3.1.4]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
