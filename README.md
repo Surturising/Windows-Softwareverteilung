@@ -65,6 +65,8 @@ Get-NMPackage -PackageName 'Notepad++'
  Get-NMPackage -PackageName 'Notepad++' -Version '8.4.8' | Install-NMPackage -ComputerName asterix
 ```
 - Es erscheint eine Zusammenfassung
+
+
 ![grafik](https://user-images.githubusercontent.com/72456947/214573223-e9a925f3-a826-4345-aac5-f22fd850edee.png)
 
 ## Paket auf einem Remote Computer deinstallieren
