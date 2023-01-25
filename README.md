@@ -33,8 +33,14 @@ Register-NMPackageSource -UNCPath '\\dc1\Software' -SourceName 'MyPrograms'
 
 ## Ein neues Softwarepaket bereitstellen
 Achtung: Das zu veröffentlichende Softwarepaket sollte bereits auf dem Rechner installiert sein.
-- Hierfür Das WPF-Tool Add NM Package öffnen
--- test
+Als Beispiel wird hier das Softwarepaket für Notepad++ erstellt
+
+Hierfür Das installierte Tool "Add NM Package" öffnen
+- Eine PackageSource wählen (Hier wird das Softwarepaket veröffentlicht)
+- Die benötigte Architektur auswählen
+-  Über Neuer Ordner kann ein neues Softwarepakt angelegt werden.
+-  ![grafik](https://user-images.githubusercontent.com/72456947/214571092-d2e3e2ec-f292-480c-b1d3-0e9d9ae0eeee.png)
+
 
 
 
