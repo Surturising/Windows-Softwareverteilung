@@ -14,6 +14,6 @@ Eine WPF GUI um neue Softwarepakete erstellen zu können.
 ### Importiere das Powershell Modul NMPackageManagement (Datei: NMPackageManagement.psm1)
 
 ```
-ps
+powershell
 Import-Module C:\Temp\NMPackageManagement.psm1
 ```
