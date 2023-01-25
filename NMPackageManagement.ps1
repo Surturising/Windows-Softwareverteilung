@@ -20,7 +20,7 @@ Computer auf dem das NMPackage installiert werden soll.
 Schreibt eine Log Datei, die später über Read-NMPackageLog ausgelesen werden kann
 
 .EXAMPLE
-Find-NMPackage -FolderPath '7-ZIP' -Version 19.00 | Install-NMPackage -ComputerName "PC1"
+Get-NMPackage -FolderPath '7-ZIP' -Version 19.00 | Install-NMPackage -ComputerName "PC1"
 
 .NOTES
 General notes
@@ -143,7 +143,7 @@ Schreibt eine Log Datei, die später über Read-NMPackageLog ausgelesen werden k
 Parameter description
 
 .EXAMPLE
-Find-NMPackage -FolderPath '7-ZIP' -Version 19.00 | Uninstall-NMPackage -ComputerName "PC1"
+Get-NMPackage -FolderPath '7-ZIP' -Version 19.00 | Uninstall-NMPackage -ComputerName "PC1"
 
 .NOTES
 General notes
@@ -241,7 +241,7 @@ Pfad zum Überordner, in dem Setup und Metadata.xml sind
 Computer auf dem überprüft wird, ob das NMPackage installiert ist.
 
 .EXAMPLE
-Find-NMPackage -FolderPath '7-ZIP' -Version 19.00 | Test-NMPackage -ComputerName "PC1"
+Get-NMPackage -FolderPath '7-ZIP' -Version 19.00 | Test-NMPackage -ComputerName "PC1"
 
 .NOTES
 General notes
@@ -682,12 +682,12 @@ Name des NMPackages
 Version des NMPackages
 
 .EXAMPLE
-Find-NMPackage -PackageName 7-ZIP -Version 19.00
+Get-NMPackage -PackageName 7-ZIP -Version 19.00
 
 .NOTES
 General notes
 #>
-function Find-NMPackage {
+function Get-NMPackage {
 
     [CmdletBinding()]
     param (
@@ -733,7 +733,7 @@ Long description
 Pfad zum Überordner, in dem Setup und Metadata.xml sind
 
 .EXAMPLE
-Find-NMPackage -PackageName 7-ZIP -Version 19.00 | Read-NMPackageLog
+Get-NMPackage -PackageName 7-ZIP -Version 19.00 | Read-NMPackageLog
 
 .NOTES
 General notes
