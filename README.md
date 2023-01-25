@@ -39,8 +39,56 @@ Hierfür Das installierte Tool "Add NM Package" öffnen
 - Eine PackageSource wählen (Hier wird das Softwarepaket veröffentlicht)
 - Die benötigte Architektur auswählen
 -  Über Neuer Ordner kann ein neues Softwarepakt angelegt werden.
--  ![grafik](https://user-images.githubusercontent.com/72456947/214571092-d2e3e2ec-f292-480c-b1d3-0e9d9ae0eeee.png)
+![grafik](https://user-images.githubusercontent.com/72456947/214571092-d2e3e2ec-f292-480c-b1d3-0e9d9ae0eeee.png)
+- Den neu angelegten Ordner nun auswählen
+- Auf Durchsuche Registry klicken
+- - Es erscheint eine Liste mit installierter Software
+- - - Bei Ordner auswählen '*' auswählen um komplette Softwareliste anzuzeigen
+- - Software per Doppelklick nun auswählen
+- - Parameter für die leise Installation hinzufügen
+- - Parameter für die leise Deinstallation hinzufügen
 
+![grafik](https://user-images.githubusercontent.com/72456947/214571959-617d29b0-5e6d-4921-a14f-9fa3ebd6a223.png)
 
+Das Softwarepaket ist jetzt vorbereitet
 
+## Verfügbare Softwarepakete anzeigen
+
+```Powershell
+Get-NMPackage -PackageName 'Notepad++'
+```
+
+## Paket auf einem Remote Computer installieren
+- Auf dem Remote Computer muss PSRemoting aktiviert sein.
+
+```Powershell
+ Get-NMPackage -PackageName 'Notepad++' -Version '8.4.8' | Install-NMPackage -ComputerName asterix
+```
+- Es erscheint eine Zusammenfassung
+![grafik](https://user-images.githubusercontent.com/72456947/214573223-e9a925f3-a826-4345-aac5-f22fd850edee.png)
+
+## Paket auf einem Remote Computer deinstallieren
+
+```Powershell
+ Get-NMPackage -PackageName 'Notepad++' -Version '8.4.8' | Uninstall-NMPackage -ComputerName asterix
+```
+
+## Überprüfen ob das Softwarepaket auf dem Computer installiert ist
+
+```Powershell
+ Get-NMPackage -PackageName 'Notepad++' -Version '8.4.8' | Test-NMPackage -ComputerName asterix
+```
+
+## Log auslesen - Wo und wann wurde das Softwarepaket installiert bzw. deinstalliert.
+
+```Powershell
+Get-NMPackage -PackageName 'Notepad++' -Version '8.4.8' | Read-NMPackageLog
+```
+
+## Einen PC auf Software durchsuchen
+- Sucht nach Software die das Wort Notepad im Namen hat.
+
+```Powershell
+Search-Package *notepad* -ComputerName asterix
+```
 
