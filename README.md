@@ -32,5 +32,9 @@ Register-NMPackageSource -UNCPath '\\dc1\Software' -SourceName 'MyPrograms'
 ```
 
 ## Ein neues Softwarepaket bereitstellen
+Achtung: Das zu veröffentlichende Softwarepaket sollte bereits auf dem Rechner installiert sein.
 - Hierfür Das WPF-Tool Add NM Package öffnen
+- - test
+
+
 
