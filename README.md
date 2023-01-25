@@ -24,7 +24,7 @@ Get-Command -Module NMPackageManagement
 ![grafik](https://user-images.githubusercontent.com/72456947/214558281-6bb4c445-76d6-4e9e-9377-d6bc628f02b3.png)
 
 ## Eine neue PackageSource einrichten
-- Hierfür muss eine Freigabe eingerichtet werden. (z.B.: \\server1\software)
+- Hierfür muss eine Freigabe eingerichtet werden. (z.B.: `\\server1\software`)
 - Die zu verteilenden Softwarepakete werden bei der Paketerstellung auf dieser Freigabe gespeichert und verwaltet
 
 ```Powershell
