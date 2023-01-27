@@ -58,7 +58,7 @@
                 </ListBox>
                 <TextBlock Name="txt_psChildName" Width="250" Text="PSChildName"></TextBlock>
                 <TextBlock Name="txt_version" Width="250" Text="Versionsnummer"></TextBlock>
-                <TextBlock Name="txt_uninstall" Width="250" Text="Uninstallstring"></TextBlock>
+                <TextBox Name="txt_uninstall" Width="250" Text="Uninstallstring"></TextBox>
                 <TextBox Name="txt_uninstallSilentArgs" Width="250" Text="Silent Uninstallargs" PreviewMouseLeftButtonDown="txt_uninstallSilentArgs_PreviewMouseLeftButtonDown"></TextBox>
                 <Button Name="btn_sucheProg" Content="Durchsuche Registry" Click="btn_sucheProg_Click"></Button>
             </WrapPanel>
