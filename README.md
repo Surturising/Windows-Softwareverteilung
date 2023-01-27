@@ -10,10 +10,11 @@
 2. Installiere NMPackage-Setup.msi
 
 ## Importiere Powershell-Modul
-- Achtung: Es müssem sowohl die Datei NMPackageManagement.ps1 also auch die NMPackageManagement.psm1 im selben Ordner liegen.
+- Kopiere Ordner NMPackageManagement nach C:\Users\Username\WindowsPowershell\Modules
+-Jetzt kann das Modul jederzeit Importiert werden
 
 ```powershell
-Import-Module C:\Temp\NMPackageManagement.psm1
+Import-Module NMPackageManagement
 ```
 
 ## Funktionen des Moduls anzeigen
