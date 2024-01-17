@@ -31,7 +31,8 @@ function Install-NMPackage {
         [Parameter(ValueFromPipelineByPropertyName, Mandatory = $true)]
         [string]$FolderPath,
         [string[]]$ComputerName = 'localhost',
-        [bool]$WriteLog = $true
+        [bool]$WriteLog = $true,
+        [switch]$Force
     )
     
     #Import Metadata
@@ -66,6 +67,11 @@ function Install-NMPackage {
     #foreach
     foreach ($PC in $ComputerName) {
         $IsPackageInstalled = Test-NMPackage -FolderPath $FolderPath -ComputerName $PC
+
+        # Wenn Force Switch gesetzt => Wird $IsPackageInstalled trotzdem auf $false gesetzt, dass NMPackage trotzdem installiert wird
+        if ($Force){
+            $IsPackageInstalled = $false
+        }
 
         if ($IsPackageInstalled -eq $false) {
             #öffnen neuer PSSession
