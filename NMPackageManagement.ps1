@@ -45,7 +45,7 @@ function Install-NMPackage {
         foreach ($Dependency in $Dependencies.PackageName) {
 
             if ($WriteLog) {
-                Install-NMPackage -FolderPath $Dependency -ComputerName $ComputerName -WriteLog
+                Install-NMPackage -FolderPath $Dependency -ComputerName $ComputerName -WriteLog $true
             }
             else {
                 Install-NMPackage -FolderPath $Dependency -ComputerName $ComputerName
